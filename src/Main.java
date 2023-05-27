@@ -12,14 +12,10 @@ public class Main {
 
         d.setLeftChild(c);
         d.setRightChild(e);
-
         b.setLeftChild(a);
         b.setRightChild(d);
-
         i.setLeftChild(h);
-
         g.setRightChild(i);
-
         rootF.setLeftChild(b);
         rootF.setRightChild(g);
 
